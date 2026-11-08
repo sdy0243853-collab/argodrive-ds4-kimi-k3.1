@@ -10,7 +10,7 @@
   "observed_providers": [
     "Alibaba"
   ],
-  "temperature": 0,
+    "temperature": 0
   "max_tokens": 64,
   "top_logprobs": 5,
   "thinking": "omit",
