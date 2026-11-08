@@ -1,7 +1,7 @@
 <p align="center"><a href="https://argonautlabs.ai/"><img src="tools/kimi-k3/images/argodrive-mark.svg" width="112" alt="Argonaut Labs"></a></p>
 
 # Argodrive DS4 Kimi K3.1
-
+ 
 ## Run Kimi 3.1 locally on one GPU
 
     **This repository is the inference engine.** It already includes the ds4-based runtime, the Kimi K3/K3.1 CUDA port, NVMe expert streaming, expert caches and weight-preparation tools. Clone and build this repository; **no separate upstream ds4 installation or Argodrive Mac app is needed**.
